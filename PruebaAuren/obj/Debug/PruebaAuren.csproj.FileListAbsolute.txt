@@ -1,0 +1,11 @@
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\bin\Debug\PruebaAuren.exe.config
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\bin\Debug\PruebaAuren.exe
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\bin\Debug\PruebaAuren.pdb
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\obj\Debug\PruebaAuren.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\obj\Debug\PruebaAuren.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\obj\Debug\PruebaAuren.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\obj\Debug\PruebaAuren.csproj.CopyComplete
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\obj\Debug\PruebaAuren.exe
+C:\Users\usuario\source\repos\PruebaAuren\PruebaAuren\obj\Debug\PruebaAuren.pdb
